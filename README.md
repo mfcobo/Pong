@@ -7,14 +7,14 @@ Pong is a two-dimensional sports game that simulates table tennis. The player co
 Controls:
 =============================
  Player 1 :
-    W and S
-    Shrink  E
-    Smash   D
+W and S
+Shrink  E
+Smash   D
 =============================
  Player 2 :  
-    UP and DOWN  arrow
-    Shrink L 
-    Smash  LEFT Arrow
+UP and DOWN  arrow
+Shrink L 
+Smash  LEFT Arrow
 =============================
 
 Game Mechanics:
