@@ -10,12 +10,11 @@ Controls:
     W and S
     Shrink  E
     Smash   D
- 
 =============================
  Player 2 :  
     UP and DOWN  arrow
-    Shrink -  L    
-    Smash  -  LEFT Arrow
+    Shrink L 
+    Smash  LEFT Arrow
 =============================
 
 Game Mechanics:
